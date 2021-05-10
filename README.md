@@ -1,4 +1,4 @@
-This is a modded version of StyleGAN2 with differential augmentation and other parameter changes. Project done for class on Deep Generative Models at UC San Diego.
+This is a lightly modded version of StyleGAN2 with differential augmentation and other parameter changes. Project done for class on Deep Generative Models at UC San Diego. Final report on using StyleGAN2 for low-shot learning is available above.
 
 Disclaimer: I only made minor edits to this, just implemented two time-scale update rule (TTUR) and exploited batch size to maximum VRAM usage.
 
