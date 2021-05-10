@@ -9,7 +9,11 @@ Then, run this line on terminal:
 run_low_shot.py --dataset=./datasets/Monet --resolution=128 --num-gpus=1 --total-kimg=300 --batch-size=24
 
 Differentiable Augmentation paper: https://arxiv.org/pdf/2006.10738.pdf
+
 Differentiable Augmentation code: https://github.com/mit-han-lab/data-efficient-gans/tree/master/DiffAugment-stylegan2
+
 StyleGAN2 paper: https://arxiv.org/pdf/1912.04958.pdf
+
 Two Time-scale Update Rule paper: https://arxiv.org/pdf/1706.08500v6.pdf
+
 Source of Monet dataset: https://www.kaggle.com/c/gan-getting-started
